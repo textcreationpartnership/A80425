@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The good man perished from the earth. Being a sermon preached upon the death of that eminent and faithful servant of Christ Mr. Christr. Fowler formerly of Reading, and lastly of London minister. By William Cooper M.A. and minister of the gospel.</title>
+            <author>Cooper, William, minister at St. Olave's Southwark.</author>
+         </titleStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80425</idno><idno type="EEBO-CITATION">99896226</idno>
+  <idno type="VID">153882</idno>
+  <idno type="EEBO-PROQUEST">2240908701</idno>
+  
+            <idno type="STC">Wing C6063</idno>
+            <idno type="STC">ESTC R230222</idno>
+            <idno type="PROQUEST">99896226</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896226e"/>
+            <note>(EEBO-TCP ; phase 2, no. A80425)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153882)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2386:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The good man perished from the earth. Being a sermon preached upon the death of that eminent and faithful servant of Christ Mr. Christr. Fowler formerly of Reading, and lastly of London minister. By William Cooper M.A. and minister of the gospel.</title>
+                  <author>Cooper, William, minister at St. Olave's Southwark.</author>
+               </titleStmt>
+               <extent>[4], 29, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Fowler, Christopher, 1610?-1678 --  Early works to 1800.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153882:1"/>
+            <p>
+               <hi>THE Good Man perished from the Earth.</hi>
+            </p>
+            <p>BEING A SERMON Preached upon the Death of that Eminent and Faithful Servant of CHRIST Mr. Christ<seg rend="sup">r.</seg> Fowler, Formerly of <hi>READING,</hi> and lastly of <hi>LONDON</hi> Minister.</p>
+            <p>By <hi>WILLIAM COOPER</hi> M.A. and Minister of the Gospel.</p>
+            <q>
+               <bibl>Psal. 12.1.</bibl>
+               <p>Help Lord, for the godly man faileth.</p>
+            </q>
+            <q>
+               <l>Extincto Pastore fideli,</l>
+               <l>Lampas extinguitur Templi,</l>
+               <l>Stella decedit Coelo.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1677.</p>
+            <pb facs="tcp:153882:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:153882:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:153882:3"/>
+            <pb facs="tcp:153882:3"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>THou hast here both a <hi>Memento</hi> and <hi>Monu<g ref="char:EOLhyphen"/>ment,</hi> the first for the Living to behold their frailty in this Glass: a Glass materially frail and brittle, and a Glass reflecting our own condition, when we look on it: The other to testi<g ref="char:EOLhyphen"/>fie and perpetuate the name of the Deceased: Plain, I confess, and not painted, because thereby more agreea<g ref="char:EOLhyphen"/>ble to the occasion and persons concerned both living and dead. A good man and a good name, as precious ointment themselves, need therefore no embalming; as being above all flattery or calumny. If there be any thing in this following Discourse that looks like praise, know it was seasonably necessary and justly due to him that is gone; sith his unreasonable and importune Ma<g ref="char:EOLhyphen"/>ligners, worse than the Ravens of the Valley, have pursued him both living and dead; which carriage to<g ref="char:EOLhyphen"/>wards holy men is both cruelty and sacriledge. Thou hadst had this little much sooner, but that to tell thee plainly it hath been all this while in the agonies of the Press, and that very near strangling too and still<g ref="char:EOLhyphen"/>born; and which is most strange to tell, for this very cause, that the Name of Mr. <hi>Fowler</hi> appeared in the face or front; so powerful is even fancy vitiated with prejudice; that (as of old) it arrayes innocence it
+<pb facs="tcp:153882:4"/> self in Beasts skins, thereby the more easily to expose and bait it. I say, had not importunity as well of friends as enemies extorted, I my self had smother'd it to death, that it should never have seen the Sun; but felt the Fire only. Let all such as judge it worthy of that fate, blame themselves and not me. As it was delivered from my mouth, so it comes into thy hand, hasty, and naked; which I pray thee to cover with the Mantle of thy Love, for him that is wrapped in those course sheets. I have told thee why thou hadst it no sooner, nor no better; it was not in my power to help it: it is in the power of God alone by all Dispensati<g ref="char:EOLhyphen"/>ons to teach us to profit: which is my prayer from my soul for thine and mine, that running our Race as he ran, and quitting our selves like men, as he did, by being zealous for the glory, and valiant for the truth of Christ, as he was; filling our narrow Sphears, ser<g ref="char:EOLhyphen"/>ving our generation, and finishing our testimony; we may at last partake of the same Crown of Eternal Life and Glory. <hi>Amen.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:153882:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Micah Chap. 7. ver. 1. and part of the 2d.</hi>
+                  </bibl>
+                  <p>Wo is me, for I am as when they have gathered the Summer fruit, as the Grape gleanings of the Vintage; there is no cluster to eat: my Soul desireth the first ripe fruit, the good man is perished.</p>
+               </q>
+            </epigraph>
+            <p>THere stood lately in this Candlestick a Burning and Shining Light, which God by the hand of Death hath extinguished; for a while ye rejoyced in his light, yea as long as that Light continued: and now you are in heaviness because that Light is put out. God hath silenc'd him, he is gone down into the place of silence. <hi>Wo is me, the good man is perished:</hi> therefore we also must be dumb and silent, for it was the Lords doing.</p>
+            <p>We must be silent as to murmuring against the hand of God, yet not silent in our mourning: therefore are we here this day to speak and hear somewhat of the mind of God in such a providence. It is good for us to go to the House of Mourning sometimes (much better than Feasting) for this is the end of all men, all sorts of men; and we our selves are of the all: sith the day of Death
+<pb n="2" facs="tcp:153882:5"/> to a good man and with a good name, is better than the day of our Birth; therefore by laying it to heart, the heart is made better: and thus out of the Eater comes sweetness.</p>
+            <p>And now Christian Friends you are come together on this occasion, and what are ye come out to see or hear? Are ye come with curiosity? Know I have brought no<g ref="char:EOLhyphen"/>thing to feed that Worm, or to please that Itch. Are there any here of that sort of hearers that haunted and infest<g ref="char:EOLhyphen"/>ed this place, which came lately to pick quarrels, to lay snares, to mistake words, and then make men Of<g ref="char:EOLhyphen"/>fendors for them? I have nothing for them. Or do ye come in sincerity of heart? your faces declare ye do: Therefore he that hath Ears to hear, let him hear what the Word of God saith, <hi>Micah</hi> 7. <hi>ver.</hi> 1. <hi>and part of the</hi> 2d.</p>
+            <p>In this Chapter the Prophet doth three Things:</p>
+            <p n="1">1. He laments the loss of good men, that there were very few good men left alive in that age; <hi>ver.</hi> 1, 2.</p>
+            <p n="2">2. The People of God comfort themselves with the hope of better times, <hi>ver.</hi> 7.</p>
+            <p n="3">3. The Prophet encourageth godly men with the pro<g ref="char:EOLhyphen"/>mise of Reformation, <hi>ver.</hi> 11. These are amplified ma<g ref="char:EOLhyphen"/>ny wayes:</p>
+            <p>But as to the first of these to which I am confined, note the paucity of good men is expressed two wayes,
+<list>
+                  <item>1. Parabolically by an elegant Simily, <hi>v.</hi> 1.</item>
+                  <item>2. Properly, and in plain words, <hi>v.</hi> 2.</item>
+               </list>
+            </p>
+            <p>Some make these words (which are the Prophets last Sermon) to be his complaint that he had no better su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cess in his Ministry.</p>
+            <p>
+               <hi>Cornelius</hi> notes here a <hi>Pathos,</hi> that God had left the Harvest and Vintage to Satan wholly, and was fain to t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke the gleanings only.</p>
+            <pb n="3" facs="tcp:153882:5"/>
+            <p>When with the Disciples we tug night and day and catch nothing, when at the same time whole shoals run into the Devils net, is it not sad?</p>
+            <p>Howbeit it is not our lot alone, for the Prophet speak<g ref="char:EOLhyphen"/>ing of Christ and his Ministry, cries out, <hi>Who hath be<g ref="char:EOLhyphen"/>lieved ovr report, and to whom is the arm of the Lord revealed?</hi> Isa. 53.1. Yet after he had uttered his com<g ref="char:EOLhyphen"/>plaint, he doth encourage himself in the Lord his Judge, and in the Lord his reward, <hi>Isa.</hi> 49.4, 5.</p>
+            <p>Nay for our example and encouragement under the like discouragements, he shews it is more thank-wor<g ref="char:EOLhyphen"/>thy with God, the less thank we have from men, <hi>ver.</hi> 5.</p>
+            <p>I shall imitate the Prophet here, and make a few glean<g ref="char:EOLhyphen"/>ings as I pass through this Field, and at last sit down by one conclusion most proper and pertinent to this occasion.</p>
+            <p>
+               <hi>Obs.</hi> 1. It is the duty of Gods servants, continually to lay to heart the state of Gods Church; to walk through it, as through a Garden or Vineyard. Some read the words thus (as <hi>Pisc. in Scholia) I am as one that walk<g ref="char:EOLhyphen"/>eth after the fruits are gathered, and as one that walk<g ref="char:EOLhyphen"/>eth in the Vineyard after the grapes are gathered.</hi>
+            </p>
+            <p>See, he walked through the Church, how? in his thoughts and meditations, considering and musing on it, and lamenting over it. Thus the Psalmist could not for<g ref="char:EOLhyphen"/>get the time of their captivated state in <hi>Babylon,</hi> when they sadly remembred <hi>Sion,</hi> and protested he would ra<g ref="char:EOLhyphen"/>ther forget to speak or sing, than not to mourn over and pray for <hi>Jerusalem,</hi> yea and prefer it before the head of his joy; <hi>Psal.</hi> 131.5, 6.</p>
+            <p>He that doth not sympathize with the Church of Christ, declares thereby that he is not of it, 1 <hi>Cor.</hi> 12.26. no part, no member, because he hath no feeling: He that sleeps, with <hi>Jonah</hi> in the Ship, while it is in a storm, as
+<pb n="4" facs="tcp:153882:6"/> unconcerned what becomes of it, deserves to be cast o<g ref="char:EOLhyphen"/>ver-board with him.</p>
+            <p>The Church of Christ is the price of his blood, the subject of his care, the stage of his works, the darling of his love; <hi>Isa.</hi> 8.8, 10. called therefore, <hi>Emanuel, The Lord is with us;</hi> and <hi>Jehovah Shamah, The Lord is there, Ezek.</hi> 48. <hi>ult.</hi>
+            </p>
+            <p>Christ the King of Saints and the Communion of Saints, call for our most serious thoughts touching the Church of God; of the state of it every where at present, of the fates of it, of the relation between it and Christ, of the appearance of God for it, of the promises of God to it, of the providences of God about it, of the enemies of God against it, of our lot and part in it: All these things are worthy the survey of our most serious thoughts, <hi>Psal.</hi> 48.13, 14. to walk about <hi>Sion,</hi> to tell her towers, to mark her palaces and bulwarks, how they are defended, how attacqued and stormed, what En<g ref="char:EOLhyphen"/>gines Satan and his Instruments make use of; and how miraculously it is preserved, though cruelly threatned. <hi>Great and glorious things are spoken of thee thou City of God,</hi> Psal. 87.3. among others, that God will build up <hi>Sion;</hi> and when he doth, he will appear in his glory; <hi>Psal.</hi> 102.16.</p>
+            <p>
+               <hi>Obs.</hi> 2. It is a sight most comfortable and most come<g ref="char:EOLhyphen"/>ly, to see the true Church of God to flourish, as a Vine<g ref="char:EOLhyphen"/>yard full of Clusters, as a Garden full of precious fruits, as a Field which the Lord hath <hi>blessed;</hi> this is clear from the Text: for the Prophet mourned to behold the con<g ref="char:EOLhyphen"/>trary sight, and longed to see it restored to its purity. There was a multitude of Professors, but they were de<g ref="char:EOLhyphen"/>generate; there was a kind of Worship good store, but it was corrupt and idolatrous; there was peace and
+<pb n="5" facs="tcp:153882:6"/> plenty, and honours and pleasures, but these are notes of a false and not true Church: It is purity of Princi<g ref="char:EOLhyphen"/>ples and Practice, exalting of the true Worship of the <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rue God, and increase and flourishing of faithful Pastors and Professors: the careful dressing and keeping of the Lords Vineyard and Garden; casting out all hurtful Plants and Weeds, fruitfulness of wholesome Plants: these are the truest Marks of Christs Church, and a comely and joyful sight to behold, <hi>Cant.</hi> 4.12. to <hi>ver.</hi> 16. <hi>Cant.</hi> 6.9, 10, 11. <hi>Cant.</hi> 7.6, 7, 8, 9. <hi>Isa.</hi> 5.1, 2.</p>
+            <p>What fruits are those wherewith the Lord is delight<g ref="char:EOLhyphen"/>ed? Fruits of Righteousness by Jesus Christ to the praise and glory of God, fruits of the Spirit, <hi>Phil.</hi> 1.11. <hi>Gal.</hi> 5.22. Not fruits of unrighteousness, which are manifest, whereof he reckons 17 together with an <hi>&amp;c. Gal.</hi> 5.19, 20, 21. wild grapes, grapes of Gall, Clu<g ref="char:EOLhyphen"/>sters of <hi>Sodom, Deut.</hi> 32.32, 33. This is,</p>
+            <p n="1">1. The greatest disappointment of Gods expectation, <hi>Isa.</hi> 5.2, and 7. verses compared.</p>
+            <p n="2">2. The worst requital of Gods care and cost, <hi>Deut.</hi> 32.6. <hi>Do ye thus requite the Lord?</hi>
+            </p>
+            <p n="3">3. The highest provocation of Gods wrath, <hi>Heb.</hi> 6.7, 8. he curseth such ground, blasteth such trees, cuts them down and burns them, <hi>Matth.</hi> 3.10. <hi>Matth.</hi> 21.19. <hi>Luke</hi> 13.</p>
+            <p>Hereby we see how to take true measures of a true Church: The Jews when they were degenerate took false measures, when they cried, <hi>The Temple of the Lord, the Temple of the Lord are ye, Jer.</hi> 7.4. three times they cried so: As the Ephesians, <hi>Acts</hi> 19.34. for two hours, <hi>Great is Diana of the Ephesians;</hi> as An<g ref="char:EOLhyphen"/>tichrist cries, <hi>Holy Church, Catholick Church, Visibili<g ref="char:EOLhyphen"/>ty, Prosperity, Succession, Duration,</hi> and who will
+<pb n="6" facs="tcp:153882:7"/> not acknowledge this is a Lollard and a Heretick.</p>
+            <p>But as godliness is without controversie a great my<g ref="char:EOLhyphen"/>stery, 1 <hi>Tim.</hi> 3. <hi>ult.</hi> which the world understands not, 1 <hi>Cor.</hi> 2.6, 7, 8, 9, <hi>&amp;c.</hi> because like the Tabernacle in the Camp and Wilderness condition, within full of Gold and precious things, without all cover'd over with Badgers skins; <hi>Num.</hi> 4.6, 8, 10, 11, 12, 14.</p>
+            <p>So the false Church is also a mystery, mystery, <hi>Baby<g ref="char:EOLhyphen"/>lon the great, the Mother of Harlots and Abominations of the Earth; arrayed in purple and scarlet colour, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> decked with Gold and precious Stones, and Pearls; ha<g ref="char:EOLhyphen"/>ving a golden Cup in her hand</hi> (all hitherto is outward bravery, see what's within) <hi>full of abominations and filthiness of her fornications;</hi> Rev. 17.3, 4, 5. Now here is the great cheat of the world, if we judge of those two mysteries by the outside and not by the in<g ref="char:EOLhyphen"/>side.</p>
+            <p>Mark, the measure and character the Lord himself gives, <hi>Luke</hi> 17.20, 21. when he was demanded of the Pharisees when the Kingdom of God should come; they meant an external earthly Kingdom: he answered the Kingdom of God cometh not with observation or out<g ref="char:EOLhyphen"/>ward shew; for behold the Kingdom of God is within you or among you, and ye see it not.</p>
+            <p>The Kingdom of God is not meat and drink, but righ<g ref="char:EOLhyphen"/>teousness and peace, and joy in the holy Ghost; <hi>Rom.</hi> 14.17.</p>
+            <p>The Kingdom of God is not in word but in power <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 1 <hi>Cor.</hi> 4. <hi>I</hi> John, <hi>who also am your brother and compa<g ref="char:EOLhyphen"/>nion in tribulation, and in the kingdom and patience of Jesus Christ,</hi> Rev. 1.9, 10.</p>
+            <p>How long shall we continue Children in these things, to be enam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ured with Gewgawes and Rattles: To fan<g ref="char:EOLhyphen"/>cy
+<pb n="7" facs="tcp:153882:7"/> the Beauty of the Kings Daughter to be in outward paint, and not in her inward glory; <hi>Psal.</hi> 45.13.</p>
+            <p>
+               <hi>Obs.</hi> 3. Decayes in the Church of God present a sad Spectacle to the Seers and Servants of God. To see a Cornfield without Corn, Fruit-trees without Fruits, a Vine without Clusters of Grapes, is uncomfortable.</p>
+            <p>The Prophet <hi>Jeremy</hi> lamented the Desolation and Captivity of the Jews in a Book which he calls <hi>Ecal;</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd not so much for the effects, as sorrow and suffering, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s for the cause thereof, their sin and rebellion against God; <hi>Lam.</hi> 1.5, 8, 9, 14, 20, 22.</p>
+            <p>Decayes in grace and righteousness, increase of sin <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd wickedness thereupon, is more grievous and omi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous to behold than wasting of a land. Want of Holi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ess is worse than want of Trade; want of the Word <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orse than want of Bread: for this withdraws the pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence of God from any people: then <hi>Icabod,</hi> wo unto <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem; their glory and God are gone together. When <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Soul is gone out of the Body, what is the Body but <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Carcass; was the best then that can be said of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>est Funeral Ornaments upon it; it is but a fair Corps: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd what is a Church of Formal Professors, when the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fe, power, and soul of Godliness is gone, but <hi>Larva <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oni lerna mali,</hi> a fair Corps, a Garden of Flowers <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lasted, a Field of Corn mildew'd, an Orchard of Fruit <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>luckt away or worm-eaten.</p>
+            <p>
+               <hi>Obs.</hi> 4. When we see Churches grown corrupt and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egenerate in Doctrine and Manners, it must be the de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re of our souls to have them reduced to their Ancient <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Primitive Purity. <hi>My soul d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sireth the first ripe <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ruit; Fructus praeco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es &amp; primitivos. Biccurah,</hi> in the Text, notes the first ripe <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruits properly, saith <hi>Hie<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome;</hi> and <hi>a Lapide</hi> tells us a Story from an Eye-wit<g ref="char:EOLhyphen"/>ness,
+<pb n="8" facs="tcp:153882:8"/> that in <hi>Palestine</hi> there was a delicate sort of Fig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that bore twice a year, but the first were far the be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and most delicate and most wholesome. To this th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prophet alludes in my Text. So we may say of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Christian Religion that came from <hi>Palestine,</hi> it wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pure, fair, sweet, wholesome: O let our souls desire t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reduce to that pattern the Original Institution, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Golden Tree or Rod of Gods Word, that measures th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Temple.</p>
+            <p>May not the Lord say to the best Church in <hi>Europ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> now, as once to <hi>Ephesus,</hi> Rev. 2.4, 5. <hi>I have somewh<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> against thee, because thou art fallen from thy first lov<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Remember from whence thou art fallen, and do thy fir<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> works; or else I will come upon thee quickly and r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>move thy Candlestick out of his place; except thou r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pent.</hi> Now if he do thus to <hi>Ephesus</hi> for a gradual d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cay. What will he do to <hi>Sardis,</hi> that had onely Name to live but was dead, <hi>Rev.</hi> 2.1, 17. and un<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Laodicea,</hi> that like them that are sick with a <hi>Deliriu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> that fancied themselves well when heart-sick, rich wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poor, happy when miserable; Learned Seers, wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> stark blind, gawdily clothed with fine Trinckets, wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they were stark naked of Christs Robe of Righteou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ness.</p>
+            <p>
+               <hi>Obs.</hi> 5. It is a thing of sad consideration, and deep to be laid to heart, when men of eminent gifts a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> graces, and of great use in the Church of God, are <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ken away from it; when Chasid and Jasher, the go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> man and the righteous man are taken off: When Bur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing Lights are extinguished, when Bearing Trees a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pluckt up, or cut down.</p>
+            <p>The S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ptuagint is emphatical, <hi>Alas O my Son<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> so they translate the Hebrew, <hi>Wo is me;</hi> as if he h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="9" facs="tcp:153882:8"/> said, It should grieve one to the Soul to think of it, and grieve one for the Souls of others in that case, whose chiefest loss it is. So <hi>David, Help Lord, the godly man ceaseth, the faithful fail from among the children of men;</hi> the Saint, the holy man, the gracious man, that hath received grace from God to shew grace to o<g ref="char:EOLhyphen"/>thers, that this man of piety and goodness, this Con<g ref="char:EOLhyphen"/>duit, this Candle of the Lords lighting for enlightning others is perished. <hi>Isa.</hi> 57.1. That Prophet makes the same Lamentation, that Chasid him, the good, gra<g ref="char:EOLhyphen"/>cious, righteous, merciful, are taken away, or gather'd; 1. That they are gone; 2. That men lay it not to heart, nor minded the causes and consequences of such strokes. Thus devout men mourned for <hi>Stephen, Acts</hi> 8.2. and for <hi>Paul,</hi> that they should see his face no more, hear his voice no more; <hi>Acts</hi> 20. <hi>two last ver<g ref="char:EOLhyphen"/>ses.</hi>
+            </p>
+            <p>Will you have a reason of such carriage in Christians, when God takes away such men? and why such a pro<g ref="char:EOLhyphen"/>vidence should be so resented by us?</p>
+            <p n="1">1. Take these: 1. From the need and usefulness of such men in the Church of God; this puts a price and excellency in them, and makes the loss the more grie<g ref="char:EOLhyphen"/>vous: <hi>Matth.</hi> 5.13, 14. <hi>Ye are the Salt of the Earth,</hi> without (to speak naturally and morally of this, note these four things:)
+<list>
+                  <item>1. Without which the Earth would be unfruitful.</item>
+                  <item>2. Without this all Creatures would putrefie and pe<g ref="char:EOLhyphen"/>rish; the Salt of Nature in every Creature is its chief preservation.</item>
+                  <item>3. Without this every thing would be insipid and un<g ref="char:EOLhyphen"/>savory and unwholsome.</item>
+                  <item>4. He that hath not this favor, is neither good for the land nor for the dunghill.</item>
+               </list>
+            </p>
+            <pb n="10" facs="tcp:153882:9"/>
+            <p>One saith of this Speech of Christ, <hi>Ye are the Salt of the Earth; Sal, Lumen, Spiritus Mundi,</hi> it was more than if he called them Gold, Pearls, and Diamonds.</p>
+            <p>In the place before cited, <hi>ver.</hi> 14. our Saviour calls his Apostles and Ministers, <hi>The Light of the World:</hi> Not as Christ is called, <hi>John</hi> 12. the Light of the World; as the Sun Christ hath the preheminence in this.</p>
+            <p n="1">1. He is the Fountain of Light.</p>
+            <p n="2">2. He is the perfection of Light; for in him is no darkness at all.</p>
+            <p n="3">3. He is the first pattern of Light; he that follows him, shall not walk in darkness.</p>
+            <p n="4">4. He is the Eternal Light; Light, of Light, and Life, eternally. All these are peculiar to him and incommuni<g ref="char:EOLhyphen"/>cable. But his Disciples are the Lights of the World, because the Church of God is inlightned by them; be<g ref="char:EOLhyphen"/>ing followers of them, as they are of Christ: and so they are the Crown of Twelve Stars wherewith the the Church is Crowned, <hi>Rev.</hi> 12.1. which would not signifie much, unless they were first cloathed with the Sun from which they borrow all their light.</p>
+            <p>They are burning and shining, as Lamps, Candles, Torches; giving light in darkness, to shew men the way that they wander not, stumble not. They are Lanthorns to hold and to hold out the light of God to o<g ref="char:EOLhyphen"/>thers. Not as dark Lanthorns to with hold the truth in unrighteousness, <hi>Rom.</hi> 1.</p>
+            <p>Now when these Lights, so useful and needful are put out, whither will people go? what will they do, to escape wandring, stumbling, and falling?</p>
+            <p>Moreover, They are Pillars, <hi>Gal.</hi> 2.9. Guids of the Blind, <hi>Rom.</hi> 2.19. Watchmen, <hi>Isa.</hi> 21.6. are not these useful? Seeds-men, Sowers, Plowers, 1 <hi>Cor.</hi> 9.10.
+<pb n="11" facs="tcp:153882:9"/> Physicians, <hi>Jer.</hi> 8.22. are not these useful? Shepherds, <hi>Jer.</hi> 8.22. are not these Housholders? <hi>Matth.</hi> 13.52. Ambassadors, 2 <hi>Cor.</hi> 5.20. Take away the Pillars, and the House cannot stand: Take away the Husbandman, and there will be no bread. Physicians failing, there will be no Cure. Remove the Shepherds, what becomes of the Sheep? Remove the Guid, and the Blind will fall into the Ditch. Remove the Steward and Hou<g ref="char:EOLhyphen"/>sholder, and the Family will starve.</p>
+            <p>Lastly, If there be no Embassadors, what Corre<g ref="char:EOLhyphen"/>spondence can be maintained, what Treaty of Peace agitated and concluded?</p>
+            <p>What think ye, is not the loss of such Men, such Of<g ref="char:EOLhyphen"/>ficers, so useful and necessery to the Church of God, sad, ominous, tragical?</p>
+            <p>
+               <hi>Reas.</hi> 2. Will ye hear further why the loss of such is to be laid to heart? Consider the circumstances of time wherein they are taken away:</p>
+            <p>When there are not Labourers enough for the Har<g ref="char:EOLhyphen"/>vest, such as he was that is gone.</p>
+            <p>When there are many Adversaries.</p>
+            <p>When the love of many waxed cold, and there needs such live coals, to kindle dead coals; as one said of <hi>Ber<g ref="char:EOLhyphen"/>nard</hi> in his time.</p>
+            <p>When there are grievous Wolves rising daily, not sparing of the Flock nor Shepherds.</p>
+            <p>When Wild Bores of the Wood and Foxes destroy the Vines.</p>
+            <p>When perillous times are coming, if not come, Ha<g ref="char:EOLhyphen"/>ters and Despisers of that which is good; Lovers of themselves and of pleasures, more than of God; ha<g ref="char:EOLhyphen"/>ving a form of Godliness, denying the power of it.</p>
+            <pb n="12" facs="tcp:153882:10"/>
+            <p>When so many thrust in, not to feed, the Flock, but to fleece them; <hi>Ezek.</hi> 34.2, 3.</p>
+            <p>When so many Flatterers and Dawbers, <hi>Ezek.</hi> 22.18. and so few sincere Monitors and Reprovers.</p>
+            <p>Help Lord, Wo is me, may we justly cry out, the good man is perished, the godly man ceaseth, and the faithful fail. What shall we say, when they are gone and going, that should counter-work these evil<g ref="char:EOLhyphen"/>workers?</p>
+            <p>When wickedness comes in like a Flood, and few stand in the gap or lift up a standard against it.</p>
+            <p>What say ye then, considering the circumstances wherein we are, is there not cause to lament the loss of eminent servants of God? So that we may use the prophets words in the Text, and that of <hi>Isaiah, Glean<g ref="char:EOLhyphen"/>ing grapes shall be left in it, as the shaking of an Olive tree, two or three Berries in the top of the uppermost bough; four or five in the outmost fruitful branches thereof; saith the Lord God of Israel;</hi> Isa. 17.6. This is very thin and sad.</p>
+            <p>
+               <hi>Reas.</hi> 3. Because such strokes are many times the punishments of sin, and the fore-runners of severe judgments; therefore to be lamented: 1. The Punish<g ref="char:EOLhyphen"/>ment of sin.</p>
+            <p n="1">1. Therefore in an evil time the Scripture saith, <hi>the world is not worthy of them; Heb.</hi> 11.38.</p>
+            <p>Hence, That Church was threatned with the remo<g ref="char:EOLhyphen"/>val of the Candlestick, <hi>because she had left her first love;</hi> Rev. 2.4, 5.</p>
+            <p>When Children are full, and begin to play with their Meat, it's time to take away.</p>
+            <p>When, the Lord would gather a people under his wing, and they will not come under the wing of Christ,
+<pb n="13" facs="tcp:153882:10"/> he will leave them desolate. When a Master allows his servants a Candle to work by, and his Children a Can<g ref="char:EOLhyphen"/>dle to learn their Lesson by, and they play by it, or play with it, he will say, Go Death, put out this Candle, take it away from them, and leave them in the dark.</p>
+            <p>God will in such a case make the prophets tongue cleave to the roof of his mouth, and to be dumb; and be no more a Reprover, to that people, because they are a Rebellious House; <hi>Ezek.</hi> 3.26.</p>
+            <p>Take heed therefore of over-valuing, and take heed of under-valuing your Teachers.</p>
+            <p>Take heed of despising of them, and take heed of abusing of them; in so doing you despise him that sent them, <hi>Luke</hi> 10.16. 1 <hi>Thess.</hi> 4.8. A neglect or affront to the Ambassador, reflects on his Prince and Master.</p>
+            <p n="2">2. Sometimes the taking away of faithful Ministers, is a fore-runner of severe judgment; <hi>Isa.</hi> 57.1, 2. Thus the righteous and the Chasid, the good man is taken away from the evil to come.</p>
+            <p>When this comes on, The Beasts go out to prey, and the Labourer leaves his work and goes to his rest.</p>
+            <p>After the death of <hi>Ambrose</hi> followed great calamities in the Empire; and so after the death of <hi>Luther,</hi> in <hi>Germany;</hi> and after the burning of <hi>Husse</hi> and <hi>Hierome</hi> in <hi>Constance;</hi> and upon the death of <hi>Pareus Heydel<g ref="char:EOLhyphen"/>berg</hi> was taken with a flood of other troubles.</p>
+            <p>
+               <hi>Reas.</hi> 4. Lastly, When useful men are removed, the number of bearers is diminished, the burden falls the heavier upon the remainder: As it fares with a House that stands upon Pillars, take away the Pillars, and the binding Beams, it cannot long stand if ye take away any of them, much more if ye take away many of them, the House will shock, crack, and totter.</p>
+            <pb n="14" facs="tcp:153882:11"/>
+            <p>As if you diminish the number of Rowers in a Gal<g ref="char:EOLhyphen"/>ley, the others must labour harder at the Oars. As of those that defend a Fort, if several of them be wound<g ref="char:EOLhyphen"/>ed or slain, the few that remain, will be put upon har<g ref="char:EOLhyphen"/>der duty, and unable to hold it out much longer, and must be forced to yield. And thus the House will fall, the Vessel miscarry, and the Fort be lost; which God forbid. So then the perishing of some, bringing a scar<g ref="char:EOLhyphen"/>city among all, may well make us cry out with the Prophet, <hi>Wo is me, the good man is perished.</hi>
+            </p>
+            <p>Brethren, These things being seasonably and not un<g ref="char:EOLhyphen"/>suitably spoken to this Providence and Doctrine, I hope and desire may be seriously minded and laid to heart; for is there not a cause? You have heard a fourfold cause, and there are many more causes than these to move you to it.</p>
+            <p>
+               <hi>Q.</hi> Why? What good will this do, and what will it avail?</p>
+            <p>
+               <hi>A.</hi> You weep with them that weep, and that's a Duty.</p>
+            <p>You consider in the day of adversity, and that's a Duty: <hi>Rom.</hi> 12.15. <hi>Eccles.</hi> 7.14. You despise not Gods Rod; for that were a sin; <hi>Heb.</hi> 12.5.</p>
+            <p>You have your hearts tuned and framed to the pre<g ref="char:EOLhyphen"/>sent Dispensation of God, and that's a benefit and mer<g ref="char:EOLhyphen"/>cy; you are awakened by this blow, and that's an ad<g ref="char:EOLhyphen"/>vantage, and a good alarm.</p>
+            <p>If God spit in your Face, should ye not sit down grieved and ashamed, <hi>Num.</hi> 12.14.</p>
+            <p>Doth the Lion roar when there is no prey? Doth Gods Trumpet give an uncertain sound? Shall twelve godly choice Ministers be taken away by Death in the compass of one year now past, and within the Line<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="15" facs="tcp:153882:11"/> of this City, which is one for every moneth, and shall we not lay it to heart, and say, Wo is me, how many good men are perished together?</p>
+            <p>Now what doth all this speak to you that hear me this day, and to all that shall hear of it, respectively concerned herein? To lay the stroak of this Rod to heart, for this Rod of God is a Speaking Rod, pray hear the voice of it.</p>
+            <p>When a Father takes one of his Sons (perhaps to prefer him) and sends him away into a far Country, it may be never to return again; will not all his Bro<g ref="char:EOLhyphen"/>thers and Sisters mourn and weep at his departure; say<g ref="char:EOLhyphen"/>ing, Alass, our dear Brother, God knows if ever we shall see thee again! Now thou art gone, how empty is the House? And while thou wert here, how sweet was thy voice, how pleasant was thy presence and company? And is there not the like cause, and a great cause of mourning, for our departed Brother?</p>
+            <p>Let me propound a few things to your meditations:</p>
+            <p n="1">1. God alone who hath power to call Ministers to their work, hath the sole power to call them off from <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, adore his power and providence herein.</p>
+            <p n="2">2. Death is the Lot and Fate of all sorts of Men. Do the Prophets live for ever? <hi>Zach.</hi> 1.5. Their Constitution, their Condition is frail, mouldering and mortal; the door that gave death entrance into the World, and upon all the World of Men, was the sin of one man; in whom all Men sinned: so that Good Men also die, and Wise Men die as well as Fools, <hi>Psal.</hi> 44.10. <hi>I will cut off the Righteous with the Wicked, Ezek.</hi> 21.3, 4. The same Sithe and Sickle cuts down Corn and Weeds together, though for different ends; adore herein the justice of God.</p>
+            <p n="3">
+               <pb n="16" facs="tcp:153882:12"/>3. When God reduces his Church to a small number, when he hath but a few Witnesses, when his Cham<g ref="char:EOLhyphen"/>pions fall, as when a Standard Bearer falleth, when many Stars are swept off from the Firmament of his Church, when Shepherds are smitten to the scatter<g ref="char:EOLhyphen"/>ing of the Sheep, when <hi>Elijahs,</hi> or Men in the Spirit and Power of <hi>Elijahs,</hi> are taken away from our Heads, as at this day; Shall we not cry, <hi>My Father my Father<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 2 <hi>Kings</hi> 2.12.</p>
+            <p n="4">4. When <hi>Ʋzzah</hi> was smitten to Death, and taken a<g ref="char:EOLhyphen"/>way from the Ark, and the place called <hi>Perez-Ʋzzah</hi> the breach of <hi>Ʋzzah</hi> thereupon; because God had mad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a breach among them. Know that God hath also mad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a breach among us. <hi>And David was afraid und troubled</hi> 2 <hi>Sam.</hi> 6.6, 7. And have not we cause to be afraid and troubled, for the breach God hath made in this Congre<g ref="char:EOLhyphen"/>gation, in his own Family, and upon us all?</p>
+            <p n="5">5. When the Word of God is scarce and precious, as i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> must needs be, when the Labourers are few, and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Harvest great, is not such a time sad; seeing it argues or bodes a dearth? When Corn is scarce and dear, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there be few sellers (not that there are no stores, bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Men shut them up) the price is inhansed, and poor Soul pinch and wring for it, and not without cause, 1 <hi>Sam</hi> 3.1. <hi>Prov.</hi> 11.26.</p>
+            <p n="6">6. When professors grow proud and haughty, whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they grow wanton and cornfed, when hearers wax cu<g ref="char:EOLunhyphen"/>rious after affected language and fine notions, and ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> weary of plain, sound, and wholesome Doctrine, 2 <hi>Tim</hi> 4.3, 4.</p>
+            <p>When like as Israel in the Desarts, fell a lusting afte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fish, Melons, and other Egyptian fare, saying, <hi>Ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Souls is dryed away, there is nothing at all beside the
+<pb n="17" facs="tcp:153882:12"/> Manna before our eyes, Num,</hi> 11.4, 5, 6. So we <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke them, lust after new Doctrines, Egyptian, Hete<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dox, strange Doctrines, and strange dressing of them up, saying, <hi>Our Soul is weary of this Manna</hi> (words of contempt) this plain preaching, this sound, home, soul-searching, soul-nourishing Doctrine, we are wea<g ref="char:EOLhyphen"/>ry of it. May it not provoke God to take away what he gave us in mercy, and give us up to our lusts and longings in wrath, as he dealt with Israel in that case, <hi>Psal.</hi> 78.18, to 30, 31.</p>
+            <p>When Orthodoxy is become a word of reproach, among the degenerate Sons of the times, who have learned a mongrel language, mixed with those of <hi>Ash<g ref="char:EOLhyphen"/>dod,</hi> and go up to the Philistines to wet their Coulters, Shares, Axes, and Mattocks; borrowing Doctrines, Distinctions, and Modes of Expression, from Papists, Photinians, and Pelagians. When of our own selves, Men are risen up, speaking perverse things; calling that sound which is rotten and contagious, and that false and erroneous, which is wholsome truth, and precious. Last<g ref="char:EOLhyphen"/>ly and plainly, when in the great and weighty points of justification and free grace, which are the glory of the Gospel; Men are gone and going to works and free will; is there not cause we should look about us, and see those things die not with those faithful ser<g ref="char:EOLhyphen"/>vants of Christ that are dead; among whom, there was none more eminent in asserting truth and impug<g ref="char:EOLhyphen"/>ning errors, and all dangerous encroachments, than our reverend deceased Brother, whose ashes we mourn over ad wet with our tears this day.</p>
+            <p>When the faithful Witnesses of Christ are not only few, but prophesie in Sack-cloth, in very many pla<g ref="char:EOLhyphen"/>ces, and threatned to be slain, <hi>Rev.</hi> 11.3, 4. yea have
+<pb n="18" facs="tcp:153882:13"/> been actually destroyed, not only by civil death, by reason of cruel commands, but corporal death; by im<g ref="char:EOLhyphen"/>prisonments, banishments and slavery, as in <hi>Hungaria</hi> and other places; is not meet for us also, to put on mourning and Sack-cloth, seeing it is the proper Garb of Christs faithful servants, while Antichrist raigneth.</p>
+            <p>But is there no hope in Israel concerning this thing, is there nothing to allay our mourning in this case, no Wine of Consolation at this Funeral Pile? Yes, There<g ref="char:EOLhyphen"/>fore take these few following draughts:</p>
+            <p n="1">1. God never takes away his faithful servants till their work is done: what need we then be troubled, God is the Arbiter of our time, task, talents, liberties, lives; we may safely conclude, God had no more to do by them, whom he calls off the Stage of their action and im<g ref="char:EOLhyphen"/>ploy.</p>
+            <p n="2">2. God is never at a loss, or lack of Instruments to do his work, he hath his quiver full of them, he hath a magazine of them.</p>
+            <p>If ye ask, Where they are to be found, and whence shall we fetch them? I answer, that is not a question to be asked of Omnipotence, and Alsufficience, which can never be to seek. Tell me whence came <hi>Waldus,</hi> and <hi>Wickliff,</hi> and <hi>Hus,</hi> and <hi>Hierome,</hi> and <hi>Luther,</hi> and thou<g ref="char:EOLhyphen"/>sands more, who raised up the righteous man from the East, called him to his foot, <hi>&amp;c. I the Lord am he, Isa.</hi> 41.2, 3, 4.</p>
+            <p>
+               <hi>Aut invinet aut faciet,</hi> as <hi>Hannibal</hi> said in another case, God will find them, or make them, who is able of Stones to raise up Children unto <hi>Abraham, Math.</hi> 3.9.</p>
+            <p>When <hi>Saul</hi> prophesied, they said one to another, <hi>I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Saul <hi>also among the Prophets?</hi> 1 <hi>Sam.</hi> 10.11, 12. and
+<pb n="19" facs="tcp:153882:13"/> one answered, but who is their Father? Who? He that can raise up what Prophets he please, and where he listeth,</p>
+            <p n="3">3. If ye ask me, How shall we unlock or open this Store and Magazine of God? I answer, Prayer is the Key of that work, <hi>Pray ye the Lord of the Harvest, and he will send forth Labourers into his Harvest, Mat.</hi> 9.38. O Christi<g ref="char:EOLhyphen"/>ans, that one thing is lacking among you, you do not pray for Ministers: pray hard, that God would send them that God would defend them, that God would furnish them, that God would prosper his work in their hands.</p>
+            <p n="4">4. Mind God of his promise in that behalf, I will give them Pastors after mine own heart that shall feed them, I will set up Shepherds over them that shall feed them, <hi>Jer.</hi> 3.15. <hi>Jer.</hi> 23.4. Again, <hi>Ezek.</hi> 34.11, 12. Thus saith the Lord God, <hi>Behold I, even I, will search my Sheep, and seek them out, as a Shepherd seeks out his Flock, so will I seek out my Sheep, where they have been scattered in a cloudy and dark day.</hi>
+            </p>
+            <p>Here is seasonable incouragement for prayer in this case, from the gracious promises of God; oh! pray.</p>
+            <p n="5">5. A constant Gospel Ministry, is the great Ordinance of Christ, and one of the richest Love-tokens he hath sent from Heaven, and the choice Fruit of his Victory and Triumph. <hi>But unto every one of us is given grace, ac<g ref="char:EOLhyphen"/>cording to the measure of the gift of Christ. Wherefore he saith, when he ascended up on high, he led Captivi<g ref="char:EOLhyphen"/>ty Captive, and gave gifts unto men: and he gave some Apostles, and some Prophets, and some Evangelists, and some Pastors and Teachers: for the perfecting of the Saints, for the work of the Ministry, for the edifying of the Body of Christ: Eph.</hi> 4.7, 8, 11, 12, &amp;c.</p>
+            <p n="6">6. And these are not for a time, or upon some occa<g ref="char:EOLhyphen"/>sions
+<pb n="20" facs="tcp:153882:14"/> only, but continually to the end, till the work of Christ be finisht, till the body of Christ in every mem<g ref="char:EOLhyphen"/>ber of it, be intirely compleated and pefected, <hi>Ephes.</hi> 4.12, 13.</p>
+            <p n="7">7. The presence of the Lord will be with them for protection and blessing in their work; <hi>Mat.</hi> 28.20. he will severely rebuke those that oppose, or afflict them, say<g ref="char:EOLhyphen"/>ing, Touch them not, nor do them no harm, <hi>Psal.</hi> 105.15.</p>
+            <p>He will reprove the greatest for their sakes; they are as tender to him as the Apple of his Eye.</p>
+            <p>
+               <hi>Wo to them that receive them not, wo to them that persecute them, Mat.</hi> 10.14, 15.</p>
+            <p>The sorest judgments of God have befallen men in that case, 2 <hi>Chron.</hi> 36.15, 16, 17. read it.</p>
+            <p n="8">8. Where and whensover there is most need, there and then will the Lord be sure to send supply.</p>
+            <p>When <hi>Paul</hi> was at <hi>Corinth,</hi> a rich, populous Em<g ref="char:EOLhyphen"/>pory or City of Trade, where were many Souls belong<g ref="char:EOLhyphen"/>ing to Christ to be converted, and from whom the Gos<g ref="char:EOLhyphen"/>pel might by that means spread to many Nations; mark what God saith, <hi>Then spake the Lord to</hi> Paul <hi>by night in a vision, Be not afraid, but speak, and hold not thy peace, for I am with thee; and no man shall set on thee to hurt thee: for I have much people in this City, Acts</hi> 18.9, 10. And he continued there a year and six months, teaching the word of God.</p>
+            <p n="9">9. God at the same instant he takes one away, he sends another: And we shall find <hi>the Spirit of</hi> Elijah, <hi>resting on</hi> Elisha, 2 <hi>Kings</hi> 2.15.</p>
+            <p>The Jews have a Proverb, It is with Ministers as it is with the Stars of Heaven, at the same time that some set, others rise up, and shine from another quarter of
+<pb n="21" facs="tcp:153882:14"/> the Heaven. <hi>Buxt. Adag.</hi> If Nature be not defective in necessaries, much less is the Grace of Christ in this necessary case.</p>
+            <p n="10">10. One incouragement more, The Lord Jesus is in<g ref="char:EOLhyphen"/>stead of all, who never faileth.</p>
+            <p>When there was joy at the death of <hi>Julian,</hi> that Apostate Heathen Persecutor, and that a Christian reign<g ref="char:EOLhyphen"/>ed, Oh, saith one, the Devil yet liveth, and is not become a Christian. This allayed their joy. So when good peo<g ref="char:EOLhyphen"/>ple mourn over the death of faithful Pastors: What <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall we say? What? Say this, Jesus Christ is still alive, and dieth no more, and he is better than 10000 Pastors; the chief Shepherd never dies, on whose Shoulders lies the government and burthen of all the Churches, of every Sheep, of every poor Lamb, <hi>Isa.</hi> 9.6. <hi>John</hi> 10.14, 27. <hi>Isa.</hi> 40.11. let this allay our grief.</p>
+            <p>Mr. <hi>Christopher Fowler,</hi> that reverend good man, is perished from the earth. How? Because he is gone hence, as to his ear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hly life, as to his personal and pastoral ca<g ref="char:EOLhyphen"/>pacity, as to his dearest family, relations.</p>
+            <p>And yet he is not perished as to perpetuity, he is not perished as to his better and more noble part: his Soul is escaped as a Bird out of the Cage of his Body, and hath taken his flight to Heaven; nor is he utterly perished as to his earthly part; he is but sowen as a Corn of Wheat in the earth, to rise up again with richer ad<g ref="char:EOLhyphen"/>vantage, 1 <hi>Cor.</hi> 15.42, <hi>&amp;c.</hi> a Spiritual, a Heavenly, an Incorruptible Body.</p>
+            <p>He is gone to the place of silence, you shall hear him preach no more in this station; burn no more in this <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ocket: nevertheless, though he be dead, he yet speak<g ref="char:EOLhyphen"/>eth unto us, because God testifieth of his gifts, <hi>Heb.</hi> 11.4.</p>
+            <p>His Memorial is not perished, but shall be as a preci<g ref="char:EOLhyphen"/>ous
+<pb n="22" facs="tcp:153882:15"/> Ointment, when the Name of the Wicked shall rot May we not say, he died in the Bed of Honour, for he fought a good Fight, and finished his Course; and hat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> received his Crown: He is at rest from his Labours, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he fruit of his Labours for himself. Oh! that th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fruits of them may grow in you, for whom, and among whom, he laboured: and without offence be it said he laboured more abundantly than we all; therefore he shall not reap sparingly, for he did not sowe spa<g ref="char:EOLhyphen"/>ringly.</p>
+            <p>The Snare was laid, and the Net spread; yet behold how quickly and happily he is escaped the Snare o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Fowler and of the Hunter; he is earthed, he i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> housed from the storm, <hi>where the wicked cease from trouble, and where the weary be at rest, Job.</hi> 3.17, 18</p>
+            <p>The storm hath blown him into a safe Harbour, whil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> others are at the labour Oar, by reason of cros<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Winds and rough Seas.</p>
+            <p>
+               <hi>Moritur Corpus cum causa;</hi> His adversaries are non suited, and the cause falls.</p>
+            <p>Mr. <hi>Brightman</hi> that laboured in revealing the Re<g ref="char:EOLunhyphen"/>velation was buried a day or to before the Purse vant came for him.</p>
+            <p>
+               <hi>Daniel</hi> was bid go and rest before the great change came that he foretold, <hi>Dan.</hi> 12.13.</p>
+            <p>When any of us come to preach here, where h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preached, methinks I hear the Hearers cry, <hi>Wo is me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my soul desireth the first ripe fruits,</hi> or, <hi>The good ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is perished and gone;</hi> that as a <hi>Boanerges</hi> thundred a<g ref="char:EOLunhyphen"/>gainst Sin; that lift up his Voice as a Trumpet in de<g ref="char:EOLunhyphen"/>fence of Truth against Error. He that opened dar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Scriptures and made them speak plain; he that as <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Barrabas</hi> spake so comfortably to distressed souls: H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="23" facs="tcp:153882:15"/> that spake with authority, and not as the Scribes; that good man is perished.</p>
+            <p>He that awakened sleepy sinners, he that revived <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem that were ready to perish, reduced wandering Sheep, re-established them that were unsettled, con<g ref="char:EOLhyphen"/>vinced them that gain-sayed, confounded them that in<g ref="char:EOLhyphen"/>sulted: He that powered out Viols vpon Antichrist, de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ected the Blasphemies of <hi>Socinus,</hi> proved Pordagian pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ended Angelical Communion to be Diabolical Delusi<g ref="char:EOLhyphen"/>on; asserted the Doctrine of Free Grace to be Evange<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ical and not Antinomian; and that Works in Justifica<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion and Free Will in Conversion, sends us to <hi>Hagar</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd <hi>Mount Sinai</hi> in <hi>Arabia; Gal.</hi> 4.22, 23, 24, 25. O my soul desireth these first ripe fruits, but the good man is perished.</p>
+            <p>What? Doth his Hearse need any Flowers from me? No, God hath embalmed him by his Grace sufficiently; his Name shall not be laid or left in the Grave, nor see cor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uption, maugre all detraction and defamation from malevolent adversaries.</p>
+            <p>It were unjust and injurious to deny him what his worth doth merit and challenge of us; and the rather <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecause malice doth envy it him: I say malice, at that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egree of madness, as to affirm he was mad, when he <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ake the words of truth and soberness. Was it not <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hus said of <hi>Hus, Luther, Beza?</hi> Was it not s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid of <hi>Paul</hi> and of Christ himself; <hi>Acts</hi> 26.24. <hi>Iohn</hi> 10.20.</p>
+            <p>But let me answer for this good man that is perished, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>Paul</hi> did, <hi>Whether we are besides our selves, it is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o God; or whether we be sober, it is for your cause; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or the love of Christ constraineth us:</hi> 2 Cor. 5.13, 14. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> say the love of Christ constrained him to be zealous
+<pb n="24" facs="tcp:153882:16"/> for him; which zeal sools count madness. We fools <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>unted these mens lives madness, but how are they numbred among the blessed?</p>
+            <p>Zeal for the Lord Jesus is the true Character and the glory of a true Servant of Christ.</p>
+            <p>He that cries Fire, when it is begun in a House, doth not whisper it. He that delivers Christs errand for the awakening of Sinners and the saving of souls, must no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deliver it as a Tale is told, or a Boy that reads a Lesson <hi>John</hi> was the voice of a Cryer, the Prophets were of<g ref="char:EOLhyphen"/>ten exstatical in their Prophesies, 1 <hi>Kings</hi> 9.11. Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Spirit of God breaths variously and as it listeth, in al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Instruments and Organs of it: And every Instru<g ref="char:EOLunhyphen"/>ment of Musick gives not the same sound, nor is eve<g ref="char:EOLunhyphen"/>ry Lesson plaid upon the same Key.</p>
+            <p>It was said of <hi>Cicero</hi> the Prince of Orators, that h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was usually so earnest in his Delivery, that he was <hi>Quasi pugnax in loquendo,</hi> Stout and daring in his A<g ref="char:EOLunhyphen"/>ction and Pleading: Which <hi>Strada</hi> makes highly com<g ref="char:EOLunhyphen"/>mendable, as occasion serves. And the Word in Gree<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> signifies a Cryer or Herald, that proclaims aloud th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kings Will.</p>
+            <p n="2">2. Others object in our deceased Brother, That h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was too copious, even to profuseness and superfluity Contrary to the Proverb, That Store is no sore.</p>
+            <p>This I here proclaim as an excellency in him: Fu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ness of Matter and freeness of utterance. For whic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cause, <hi>The lips of the wise are a well or fountain <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> life;</hi> Prov. 10.11.</p>
+            <p>He knew that it is a Rule in Husbandry, Never t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> under-seed the ground; and holds more in a Spirit<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Husbandman or Sower of Gods Word. He remembre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what his Master said of the Scribe that is instructed t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="25" facs="tcp:153882:16"/> the Kingdom of God, that he is likened to a good Hou<g ref="char:EOLhyphen"/>sholder, that brings out of his Treasury things new and old; <hi>Matth.</hi> 13.52. and that freedom and bold<g ref="char:EOLhyphen"/>ness of speech in the Lords Message, is both a great gift and grace.</p>
+            <p>What shall I say of this man of men, this man of God? If we will follow him from <hi>Marlborough</hi> to <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> to <hi>Woohday,</hi> to <hi>Albourn,</hi> to <hi>Eaton,</hi> to <hi>Reading,</hi> to Prison, to <hi>London,</hi> to the Grave, we shall find him an able, holy, faithful, indefatigable Servant of Christ, a Workman that need not be ashamed; who approved himself such by painful Studies, by patient Sufferings, by continual Prayer and Preaching. He was quick in Apprehension, solid in his Notions, clear in his Con<g ref="char:EOLhyphen"/>ceptions, sound in the Faith, strong and demonstra<g ref="char:EOLhyphen"/>tive in arguing, mighty in convincing, zealous for the Truth against all Error; and chiefly for the chiefest and most glorious Truths of the Gospel: which were dear<g ref="char:EOLhyphen"/>er to him than his own life.</p>
+            <p>Besides this, he had a singular gift of Chronology, not for curious speculation or ostentation, but as a Key and Measure to know the signs of the Times, and the fulfilling of Prophesies relating to the Kingdom of Christ and Antichrist, the Exaltation of the one, and the ruin of the other; wherein he was not rash or peremptory, but sober, walking by Line and Rule: Knowing the Spirit of God calls for Wisdom and Understanding in this case, <hi>Rev.</hi> 17.9. <hi>Dan.</hi> 5.11, 14. <hi>Rev.</hi> 13.18. What measure of the Spirit of God he had herein, his intelligent Hearers can judge.</p>
+            <p>In a word, By what I knew of him, he seemed for compleatness, taking our Measures by Gospel Rules (and I know no other to measure a Minister of Christ
+<pb n="26" facs="tcp:153882:17"/> by) he may be numbred among the chief; or as Mr. <hi>Cotton</hi> said of Mr, <hi>Hildersham,</hi> among the first Three. I know it is an evil humour of many in this Age, to ex<g ref="char:EOLhyphen"/>tol and decry men at pleasure, and to have persons in admiration or contempt for carnal advantages; but by the grace of God we are what we are, and not he whom man commendeth is approved, but whom the Lord commendeth; and this grace in our deceased Brothe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was not in vain, for he laboured more abundantly than they all; and yet not he, but the grace of God in him 1 <hi>Cor.</hi> 15.10.</p>
+            <p>He sate at the feet of Dr. <hi>Prideaux</hi> in <hi>Oxford,</hi> an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> loved him for his Orthodoxy, when the world bega<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to innovate; and as for Dr. <hi>Twisse,</hi> between whom fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their harmony of Principles and holy Practice, ther<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was an endeared reciprocal love. And that he conver<g ref="char:EOLhyphen"/>sed not with these men and the choicest Protestan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Champions, in vain, he gave sufficient testimony t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them that knew and heard him; and perhaps may ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more by something posthumous: which he hoped t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have lived to see perfected.</p>
+            <p>It was the Motto of an Eminent Prince, which he too<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to himself, <hi>Ʋt luceo me contero.</hi> As a Light I consum<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my self in burning. The same may fitly be applied to Mr. <hi>Fowler;</hi> he spent himself in this Candlestick and i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gone out; nor is it to be wondred at in him, who used to spend seven hours on a Sabbath in expounding and preaching here; not measuring the time by his Glass but by his Strength: never giving out as long as h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> could stand; and being told by friends that this was <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fault (thovgh such a one as many are not guilty of) he would answer, I cannot help it, my time and strength is Gods, and he shall have it.</p>
+            <pb n="27" facs="tcp:153882:17"/>
+            <p>Come Brethren, What will ye have more to ren<g ref="char:EOLhyphen"/>der a man compleat in the Ministry. <hi>Beza</hi> saith, That <hi>Farell, Viret,</hi> and <hi>Calvin,</hi> these three had each of them a singular Gift, one in Prayer, the other two in Preaching: all which three seemed to meet in this one man Mr. <hi>Fowler.</hi>
+            </p>
+            <p>
+               <hi>Paul</hi> saith he approved himself a Minister of Christ in patience and affliction; 2 <hi>Cor.</hi> 6.3. so did he.</p>
+            <p>Also by abounding in love towards his people and bre<g ref="char:EOLhyphen"/>thren; 1 <hi>Thess.</hi> 3.12. so did he.</p>
+            <p>Again, To be willing not only to deal out the Go<g ref="char:EOLhyphen"/>spel, but his Soul to the People; <hi>Rom.</hi> 9.3. so was he.</p>
+            <p>Likewise to declare the whole Counsel of God, to keep back nothing, nor to with-hold the Truth in un<g ref="char:EOLhyphen"/>righteousness; <hi>Acts</hi> 20.27. so did he.</p>
+            <p>Moreover, Is not this the Work of a Minister, to give attendance to Reading, to Exhortation, to Doctrine, yea to read and give the sense? 1 <hi>Tim.</hi> 4.13. <hi>Nehem.</hi> 8.8. All this did he: yea reprove, exhort, rebuke, comfort, with all long-suffering and patience; 2 <hi>Tim.</hi> 4.2.</p>
+            <p>Yet further, Is this the part of a Minister, to flee Sensual Lusts and Pleasures, to follow Righteousness, Faith, Charity, Peace? 2 <hi>Tim.</hi> 6. so did he.</p>
+            <p>And, Is this comely in us, not to use Flattery; but to hate that sinful way? <hi>Job</hi> 32.31. As also not to use enticing words of mans wisdom, nor swelling words of vanity? which gilding and dawbing, the Pure Gold of Gospel Truth needs not; but accounts it self debased and adulterated by it, whatever vain wordy men think otherwise.</p>
+            <p>Is it to flee Covetousness and scraping Earthly Riches? 1 <hi>Tim.</hi> 6.11, 12. In all this our deceased Brother ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d.</p>
+            <pb n="28" facs="tcp:153882:18"/>
+            <p>Lastly, Is it to strengthen the weak, to heal the Sick, to bi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d up the broken, to seek those that are lost and driven away? <hi>Exek.</hi> 34.4. This was his desire and practice.</p>
+            <p>Stand forth now ye profane Scoffers, ye that speak evil of things ye know not; ye that sought to make him an Offender for a word; ye that daily mistook and wrested his words; and laid to his charge things and words he knew not; ridiculous lying words, yea blasphemous words: Bring forth your Arguments, can ye deny, this Testimony now given of this man of God, now with God, which Two thousand can bea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> witness to, that hear me this day; or hear of what is said of him this day.</p>
+            <p>And remember this, If there be any that hear m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now, as some came to hear him, not as Bees to gather Honey, but as Spiders to suck Poyson; and as some came to hear Christ; not to be edified by his words, but to entrap and entangle him in his Speech: Let such know he is out of reach, and it is too late: Know that very word will judge you at the Great Judgment Bar, whither he is gone to cite you if ye persist. And Oh that his prayer, which while alive, he poured forth for his Enemies, with <hi>Steven, Lord lay not this sin to their charge.</hi> O that this prayer may be heard, and that his enemies may find it.</p>
+            <p>I cannot conceal some of his last Breathings, which he breathed out in his last Prayer for the Church o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Christ and the Peace of <hi>Jerusalem,</hi> for the Preservati<g ref="char:EOLhyphen"/>on, Propagation, and Deliverance of it, according to the promises of God in that behalf, made to be fulfil<g ref="char:EOLhyphen"/>led in these last Times: and herein he was pathetical, and let me say prophetical. Which to us that stood by
+<pb n="29" facs="tcp:153882:18"/> (to me it did) argued these Three Things</p>
+            <p n="1">1. Though Wife and Children were dear to him <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t was the Church and Cause of Christ more dear.</p>
+            <p n="2">2. These things were not new to him, but long su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed and deeply pondered by him: No man having more rational apprehensions in the Secrets of Gods Kingdom; whereof the time of fulfilling is at hand.</p>
+            <p n="3">3. I cannot but look on it as a signal impulse of the Spirit of God upon him, in bringing those things to his remembrance then in that prayer which he made a little before his Death in a short lucid interval, as the Sun between two dark Clouds: For he thus, after his Ago<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, in which he was Delirous, improved that little calm for Heaven; and soon after ascended to it. Whi<g ref="char:EOLhyphen"/>ther also He bring us, who hath taken him. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="acrostic">
+            <head>Acrost. Dodecasyllabum.</head>
+            <l>Cherubicis vares tu pennis uitere</l>
+            <l>His queis supernas petit <hi>Foulerus</hi> domos.</l>
+            <l>Rite qui <hi>Foulerum</hi> aut digne cantaveris,</l>
+            <l>Ipsi usque linguam capta vel calamum.</l>
+            <pb facs="tcp:153882:19"/>
+            <l>Sacri Mystes, &amp; <hi>Oedipus</hi> Oraculi</l>
+            <l>Tonabat diri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> adversus sontes minis</l>
+            <l>Oquam terrificos incusserit metus</l>
+            <l>Pungendo ancipiti medullas gladio,</l>
+            <l>Horrendum fulminans Pseudochristi-colis,</l>
+            <l>Occulta prodens errorum grassantium</l>
+            <l>Radicitus amputavit Zizania;</l>
+            <l>Verbo phialas irati effudit Dei,</l>
+            <l>Sigilla selvit, tubarum clangentium</l>
+            <l>Foelix tubicen, Aerarum Chronologus,</l>
+            <l>Omnia aperiens Synchrona, Dichrona,</l>
+            <l>Urbis quae spectant septicollis asseclas.</l>
+            <l>Lucem, facemque Ecclesiis praetulerit;</l>
+            <l>Eprofundo aerumnarum <hi>Sionem</hi> extulit</l>
+            <l>Romuleam ut pestem detegat, &amp; domet.</l>
+            <l>Ut postliminio descendant aurea</l>
+            <l>Sae<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>la: ad balantes Christe festina greges.</l>
+         </div>
+         <div type="poem">
+            <head>DECASTICON.</head>
+            <l>QƲi Christum Scapulis ausus portare per undas,</l>
+            <l>Vere hic <hi>Christophori</hi> nomen, &amp; omen habet:</l>
+            <l>Suave jugum, leve portat onus, verbique crucisque,</l>
+            <l>Ʋt Cynosura piis, ut <hi>Palinurus</hi> aquis.</l>
+            <l>Qui fidus Sponsa exhibuit Paranymphus <hi>Iesum,</hi>
+            </l>
+            <l>Connubio, versa jam vice sponsus habet,</l>
+            <l>Quique hic non uno fulgebat sydus in orbe,</l>
+            <l>Altius elatum Sphara suprema tenet.</l>
+            <l>Macte age quem jactavit decumanior unda,</l>
+            <l>Cum te portus habet, nos male pontus agit.</l>
+            <closer>
+               <signed>N. N.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>Encomiasticon <hi>Fouleri</hi> Epitaphium.</head>
+            <lg>
+               <l>
+                  <hi>SIste Viator: Inest</hi> Foulerus, <hi>gaza, Sepulchro,</hi>
+               </l>
+               <l>
+                  <hi>Gazophylas tibi theca manet, fugit enthea gemma.</hi>
+               </l>
+               <l>
+                  <hi>Ʋmbra manet, repetitque suos pars coelica, coelos.</hi>
+               </l>
+               <l>
+                  <hi>Qualis erat, quantusque fuit sollertius audi.</hi>
+               </l>
+               <pb facs="tcp:153882:19"/>
+               <l>Ambrosius <hi>dictis, vitâ</hi> Fulgentius, <hi>arte</hi>
+               </l>
+               <l>
+                  <hi>Sedulius, Zelo</hi> Paulus, <hi>candore</hi> Agapetus,</l>
+               <l>
+                  <hi>Pace</hi> Irenaeus, <hi>teneris</hi> Lactantius <hi>agnis,</hi>
+               </l>
+               <l>
+                  <hi>Vindiciis fidei verae, Constantius; arm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi>
+               </l>
+               <l>
+                  <hi>Pneumaticis semper</hi> Vincentius, <hi>&amp; pietatis</hi>
+               </l>
+               <l>Eusebius, <hi>sanctae; larvatae</hi> Martius <hi>hostis.</hi>
+               </l>
+               <l>Sozomenus, <hi>magnoque operum</hi> Polycarpus <hi>acervo.</hi>
+               </l>
+               <l>Theiophilus, Coelestinus, <hi>tandem ordine Doctor</hi>
+               </l>
+               <l>
+                  <hi>Angelicus, videt intuitu quae voce docebat.</hi>
+               </l>
+               <l>
+                  <hi>Dicite Jo paean, lachrymas cohibete cohortes</hi>
+               </l>
+               <l>
+                  <hi>Sanctorum,</hi> Foulerus <hi>ovat, diademata <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>estat</hi>
+               </l>
+               <l>Nicephorus, Stephanusque <hi>cluit, coeloque triumphat</hi>
+               </l>
+               <l>
+                  <hi>Desine Pseudopetraea Phalanx,</hi> Photine <hi>sileto,</hi>
+               </l>
+               <l>
+                  <hi>Agmen Episc pii,</hi> Fouleri <hi>cede triumphis</hi>
+               </l>
+               <l>
+                  <hi>Cedite</hi> Romuleae <hi>quotquot de foecis abysso</hi>
+               </l>
+               <l>
+                  <hi>Surgitis, Haereseon cunctarum Malleus, ecce</hi>
+               </l>
+               <l>
+                  <hi>De cunctis</hi> Foulerus <hi>evat, de morte triumphat,</hi>
+               </l>
+               <l>
+                  <hi>Ringantur jam prava cohors sua rostra tenebit</hi>
+               </l>
+               <l>
+                  <hi>Salve tu</hi> Foulere <hi>redux, salve empsycha proles,</hi>
+               </l>
+               <l>
+                  <hi>Par sua progenies patri, sic ora ferebat</hi>
+               </l>
+               <l>
+                  <hi>Sic animum, redivivus ad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st, vacuumque replevit.</hi>
+               </l>
+               <l>
+                  <hi>Nos patris ciueres lachrymis madefecimus Ʋrnae,</hi>
+               </l>
+               <l>
+                  <hi>Phoenicem cineres radiis coelestibus edunt.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>REader, Behold the Fates of Mortal glory,</l>
+               <l>And with it by reflexion thine own Story.</l>
+               <l>Heaven in our grief prepared us a gourd,</l>
+               <l>Whose shade did soul-refreshing us afford,</l>
+               <l>With Fruits of <hi>Paradise</hi> dropt by his word.</l>
+               <l>What said I, dropt? no; for this Conduit flow'd</l>
+               <l>With Rivers, which he to the Fountain ow'd,</l>
+               <l>Which Heaven on him, and he on us bestow'd.</l>
+            </lg>
+            <lg>
+               <l>But Heaven, that sent the Gourd, hath sent a Worm,</l>
+               <l>The Gourd to smite, and make it wither away;</l>
+               <l>Blasting our comforts in't as with a storm;</l>
+               <l>Breaking our staffe of Bread, and all our stay.</l>
+               <pb facs="tcp:153882:20"/>
+               <l>Ay me! this life's refreshing's but a shade,</l>
+               <l>Our streams, gourds, fruits, will never cease to fade.</l>
+               <l>Why? all that time doth bound, was therefore made.</l>
+            </lg>
+            <lg>
+               <l>Was't so? therefore extend thy heart and hope,</l>
+               <l>Beyond the limits of what's temporary:</l>
+               <l>And let thy thoughts, desires, and actions scope,</l>
+               <l>Only to what is infinite thee carry.</l>
+               <l>Long for the fountain of true bliss and light,</l>
+               <l>What ere's on this side that's but starry bright,</l>
+               <l>The beauty not of Sun-shine day, but night.</l>
+            </lg>
+            <lg>
+               <l>Prophets our Pilots are in this Worlds Seas,</l>
+               <l>Wherein we sail and toss, yet still Heaven bound;</l>
+               <l>Masters take Pilots on and off as please:</l>
+               <l>Our Master, our best Pilot will be found.</l>
+               <l>Who so to him, and to his compass look,</l>
+               <l>The Star and Charts of his most sacred Book,</l>
+               <l>They never will, they never were forsook.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Fowler,</hi> in spight of <hi>Momus</hi> grinning scorn,</l>
+               <l>Of Renegado's cruising here and there,</l>
+               <l>Of lurking men of prey, Satans forlorn,</l>
+               <l>Steer'd a brave course, through peril<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> without fear,</l>
+               <l>Made a rich Voyage, but was caught on shore;</l>
+               <l>Be-heaven'd in happy Port, and seen no more,</l>
+               <l>Till we, and Ship, arrive with fraight and store,</l>
+            </lg>
+            <lg>
+               <l>This Faithful Shepherd watch'd his Flock so well,</l>
+               <l>'Gainst barking Dogs and greedy Wolves, and Thief,</l>
+               <l>He fed them richly, led them safely, bare the bell</l>
+               <l>Of all the Shepherds for poor souls relief.</l>
+               <l>When Beasts and bruitish men beset him strong,</l>
+               <l>Hunting the Shepherd with full-mouth'd cry;</l>
+               <l>Certes, they had him swallow'd with his throng,</l>
+               <l>But the chief Shepherd did this game espy,</l>
+               <l>Housing the Shepherd safe, folding the Sheep,</l>
+               <l>Who for his Flocks doth watch and never sleep;</l>
+               <l>Joy then dear hearts! and cease to mourn and weep.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153882:20"/>
+         </div>
+      </back>
+   </text>
+</TEI>
